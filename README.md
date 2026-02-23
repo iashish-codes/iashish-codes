@@ -1,4 +1,4 @@
-## Hi, I’m Ashish.
+## Hi, I’m Ashish
 
 <!--
 **iashish-codes/iashish-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
